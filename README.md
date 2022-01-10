@@ -1,4 +1,4 @@
-# AllSpeak
+# AllSpeak Qurre
 SCP talk to people!
 ## Description
 - SCP talk to each other at any distance on the Q button
